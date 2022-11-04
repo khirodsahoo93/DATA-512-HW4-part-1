@@ -62,31 +62,35 @@ COUNTYFP	NEVER	RARELY	SOMETIMES	FREQUENTLY	ALWAYS
 
 ```bash
 
-├── Data512-part1.ipynb
+├── pandemic_analysis.ipynb
 ├── README.md
 ├── LICENSE
-├── data
+├── Input Data
 │   ├── RAW_us_confirmed_cases.csv
 │   ├── mask-mandate.csv
 │   └── mask-use-by-county.csv
-├── Reflection_Statement.pdf
-├── Visualization_Explanation.pdf
-├── plots
-│   ├── Number_of_cases_cumulative.png
-│   ├── Number_of_cases_daily.png
-│   ├── Infection_rate.png
-│   ├── Second_order_differencing_of_Infection_Rate'.jpeg
-│   ├── Second order difference of the numner of COVID cases daily.jpeg
+├── Reflection
+|   ├── HW4 part1- reflection 1.docx
+|   ├── HW4 part1- reflection 2.docx
+├── Output Data
+│   ├── cases_per_unit_time.png
+│   ├── Daily confirmed cases.png
+│   ├── Daily cumulative confirmed cases.png
+│   ├── daily_cases_growth_rate.jpeg
+│   ├── infection_rate.jpeg
 
 ```
 ## Output files
 
 The example of screenshots from the analysis:
 
+ ![1](https://github.com/khirodsahoo93/DATA-512-HW4-part-1/blob/main/Output%20Data/infection_rate.png)
+ ![2](https://github.com/khirodsahoo93/DATA-512-HW4-part-1/blob/main/Output%20Data/cases_per_unit_time.png)
+
 
 ## License
 - This assignment code is released under the MIT License.
-- The Wikipedia English language articles data source is released under the CC-BY-SA 4.0 license.
+
 
 
 
